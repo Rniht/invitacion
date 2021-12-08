@@ -1,0 +1,18 @@
+.background-regalos{
+    text-align: center;
+    margin-bottom: 45px;
+}
+.background-regalos .tittle {
+    margin-top: 30px;
+    margin-bottom: 30px;    
+}
+.background-regalos a{
+    color: black;
+    text-decoration: none;
+    font-size: 28px;
+    padding-top: 13px;
+}
+.background-regalos .div-text{
+    text-align: center;
+    padding-top: 11px;
+}

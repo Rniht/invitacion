@@ -1,0 +1,52 @@
+
+#confirmar {
+    background-color: #333333;
+    color: white;
+    padding-top: 40px;
+}
+.tittle {
+    font-family: Birds;
+    margin-bottom: 45px;
+}
+.sub-tittle {
+    font-family: Galgony;
+}
+.button-wap {
+    text-align: center;
+    padding: 15px 10px;
+    background-color: #128c7e !important;
+    width: auto;
+    margin: 0 auto;
+        margin-bottom: 0px;
+    color: #fff;
+    cursor: pointer;
+    font-size: 22px;
+    width: 80%;
+    line-height: 24px;
+    margin-bottom: 50px;
+    font-family: roboto;
+    border-radius: 15px;
+    text-shadow: 1px 1px 2px #331919;
+}
+.footer{
+    background-color: gray;
+    background-image: url(../../images/perro.jpg);
+    color: white;
+
+    background-position: 50% 0;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    padding-top: 500px;
+}
+.footer .tittle {
+    font-family: Champagne;
+    margin-bottom: 20px;
+}
+.footer h2 {
+    font-size: 50px;
+}
+.footer .subttitle {
+    font-family: Birds;
+}
