@@ -1,0 +1,16 @@
+#padres {
+    padding-top: 60px;
+}
+
+#padres .tittle{
+    margin-bottom: 20px;
+    font-size: 45px;
+}
+#padres h2 {
+    font-family: Champagne;
+    font-weight: Bold;
+}
+
+#padres .row{
+    margin-bottom: 28px;
+}

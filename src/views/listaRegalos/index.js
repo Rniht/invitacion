@@ -14,7 +14,7 @@ export default function ListaRegalos(){
                             <Card.Body>
                                 <Row>
                                     <Col xs={3} md={3} >
-                                        <img src={img}/>
+                                        <img src={img} alt="imagen"/>
                                     </Col>
                                     <Col xs={9} md={9} className="div-text"> 
                                         Liverpool: 50687780
@@ -30,7 +30,7 @@ export default function ListaRegalos(){
                             <Card.Body>
                                 <Row>
                                     <Col xs={3} md={3} >
-                                        <img src={img}/>
+                                        <img src={img} alt="imagen"/>
                                     </Col>
                                     <Col xs={9} md={9} className="div-text"> 
                                         Sears: 24502469

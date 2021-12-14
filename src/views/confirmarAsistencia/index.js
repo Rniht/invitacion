@@ -12,7 +12,9 @@ export default function ConfirmarAsistencia(){
                     <h1 className="tittle">Confirmar asistencia</h1>
                 </Col>
                 <Col xs={12} md={12} >
-                    <Button className="button-wap"> <img src={wsIcon}/>Confirmar asistencia</Button>
+                    <a href="https://api.whatsapp.com/send?phone=5214611160486&text=Confirmo asistencia a la ceremonia">
+                        <Button className="button-wap"> <img src={wsIcon} alt="imagen"/>Confirmar asistencia</Button>
+                    </a>
                 </Col>
             </Row>
             <Row>

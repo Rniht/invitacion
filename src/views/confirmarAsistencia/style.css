@@ -27,6 +27,12 @@
     font-family: roboto;
     border-radius: 15px;
     text-shadow: 1px 1px 2px #331919;
+    padding-top: 15px !important;
+    padding-bottom: 15px !important;
+}
+.button-wap img {
+    margin-top: -4px;
+    margin-right: 5px;
 }
 .footer{
     background-color: gray;

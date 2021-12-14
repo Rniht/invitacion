@@ -13,7 +13,7 @@ export default function Inicio(){
             </Row>
             <Row className="frase-background">
                 <Col xs={12} md={12} >
-                    <h2>Una boda vive 3 veces, al soñarla, al celebrarla y al recordarla, te invitamos a que formes parte de ella</h2>
+                    <h2>La felicidad nos alcanza para compartirla también con ustedes</h2>
                 </Col>
             </Row>
         </Container>
