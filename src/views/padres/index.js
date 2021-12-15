@@ -5,17 +5,7 @@ import Row from 'react-bootstrap/Row';
 export default function Padres(){
     return (
         <Container id="padres" fluid>
-            <Row className="background">
-                <Col xs={12} md={12} >
-                    <h1 className="tittle">Papás ​​del novio</h1>
-                </Col>
-                <Col xs={12} md={12} >
-                    <h2>Guillermo Velasco Delgado ✝</h2>
-                </Col>
-                <Col xs={12} md={12} >
-                    <h2>María de Lourdes Ulaje González</h2>
-                </Col>
-            </Row>
+            
             <Row className="background">
                 <Col xs={12} md={12} >
                     <h1 className="tittle">Papás ​​de la novia</h1>
@@ -25,6 +15,17 @@ export default function Padres(){
                 </Col>
                 <Col xs={12} md={12} >
                     <h2>Lucinda Perla Morfin Nieto</h2>
+                </Col>
+            </Row>
+            <Row className="background">
+                <Col xs={12} md={12} >
+                    <h1 className="tittle">Papás ​​del novio</h1>
+                </Col>
+                <Col xs={12} md={12} >
+                    <h2>Guillermo Velasco Delgado ✝</h2>
+                </Col>
+                <Col xs={12} md={12} >
+                    <h2>María de Lourdes Ulaje González</h2>
                 </Col>
             </Row>
             <Row className="background">
