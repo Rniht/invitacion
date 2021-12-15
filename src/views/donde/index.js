@@ -53,14 +53,16 @@ export default function Donde(){
                         </Card.Header>
                         <Card.Img variant="top" src={salonImg} />
                         <Card.Body>
-                            <Card.Title><p>Eventos La Fragua</p></Card.Title>
+                            <Card.Title><p>Eventos La Fragua Salón "Agave"</p></Card.Title>
                             <Card.Text>
-                                <Col md={6} >
-                                        <label className="cuando">Cuando: </label>
-                                </Col>
-                                <Col md={6} >
-                                    <p>26 de Febrero a las 20 horas</p>
-                                </Col>
+                                <Row>
+                                    <Col md={6} >
+                                            <label className="cuando">Cuando: </label>
+                                    </Col>
+                                    <Col md={6} >
+                                        <p>26 de Febrero a las 20 horas</p>
+                                    </Col>
+                                </Row>
                             </Card.Text>
                             <Row>
                                 <Col md={6} >
